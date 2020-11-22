@@ -1,2 +1,4 @@
 # Curso-de-Data-Science-em-Portugues
-Curso de data sicence 
+Curso de Data Science Exercicios e teoria do curso Didatica Tech.
+Professor Natanael de Parabéns.
+
